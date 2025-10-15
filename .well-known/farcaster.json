@@ -10,23 +10,23 @@
   "miniapp": {
     "version": "1",
     "name": "Block Ninja",
-    "homeUrl": "https://your-domain.com",
-    "iconUrl": "https://your-domain.com/icon.png",
-    "splashImageUrl": "https://your-domain.com/splash.png",
+    "homeUrl": "https://blocks-ninja.vercel.app",
+    "iconUrl": "https://blocks-ninja.vercel.app/splash.jpg",
+    "splashImageUrl": "https://blocks-ninja.vercel.app/splash.jpg",
     "splashBackgroundColor": "#000000",
     "subtitle": "Slice glowing blocks of energy",
     "description": "A futuristic slicing game where you slice plasma orbs and chase high scores.",
     "screenshotUrls": [
-      "https://your-domain.com/s1.png",
-      "https://your-domain.com/s2.png"
+      "https://blocks-ninja.vercel.app/splash.jpg",
+      "https://blocks-ninja.vercel.app/splash.jpg"
     ],
     "primaryCategory": "game",
     "tags": ["game", "arcade", "action"],
-    "heroImageUrl": "https://your-domain.com/og.png",
+    "heroImageUrl": "https://blocks-ninja.vercel.app/splash.jpg",
     "tagline": "Slice. Glow. Repeat.",
     "ogTitle": "Block Ninja",
     "ogDescription": "Slice glowing plasma blocks and compete for high scores!",
-    "ogImageUrl": "https://your-domain.com/og.png",
+    "ogImageUrl": "https://blocks-ninja.vercel.app/splash.jpg",
     "noindex": true
   }
 }
