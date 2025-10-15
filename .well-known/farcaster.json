@@ -1,0 +1,32 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "allowedAddresses": [""]
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Block Ninja",
+    "homeUrl": "https://your-domain.com",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "splashImageUrl": "https://your-domain.com/splash.png",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "Slice glowing blocks of energy",
+    "description": "A futuristic slicing game where you slice plasma orbs and chase high scores.",
+    "screenshotUrls": [
+      "https://your-domain.com/s1.png",
+      "https://your-domain.com/s2.png"
+    ],
+    "primaryCategory": "game",
+    "tags": ["game", "arcade", "action"],
+    "heroImageUrl": "https://your-domain.com/og.png",
+    "tagline": "Slice. Glow. Repeat.",
+    "ogTitle": "Block Ninja",
+    "ogDescription": "Slice glowing plasma blocks and compete for high scores!",
+    "ogImageUrl": "https://your-domain.com/og.png",
+    "noindex": true
+  }
+}
