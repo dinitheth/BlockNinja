@@ -5,6 +5,7 @@
     "signature": "MHhiMjk5NjEwNzUzZWQ0ZWYyZDYxYTFmNGM0ZjJiNGMzZmUxYjNlNmZjZjQ3MzIyZmFiZjQyMjJmOTVkOTM4MDc2NTg1YmEzNGU4ODg5ZGM5ZTJjOGYxZTAxNDFkYjFhNzYzNTg1Nzk0NWQxZjRjYzY1MGNmZGJlYjM2MzljYzQwNzFj"
   },
   "baseBuilder": {
+    "ownerAddress": "0xA43Bb56851C35e67985D5d1786C2920D0CED5d25",
     "allowedAddresses": [""]
   },
   "miniapp": {
