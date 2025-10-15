@@ -6,14 +6,14 @@
     <!-- Farcaster Mini App metadata for rich embed -->
     <meta name="fc:miniapp" content='{
       "version": "next",
-      "imageUrl": "https://your-domain.com/embed.png",
+      "imageUrl": "https://blocks-ninja.vercel.app/splash.jpg",
       "button": {
-        "title": "Play Block Ninja",
+        "title": "Play Block Ninja X",
         "action": {
           "type": "launch_miniapp",
-          "name": "Block Ninja",
-          "url": "https://your-domain.com",
-          "splashImageUrl": "https://your-domain.com/splash.png",
+          "name": "Block Ninja X",
+          "url": "https://blocks-ninja.vercel.app",
+          "splashImageUrl": "https://blocks-ninja.vercel.app/splash.jpg",
           "splashBackgroundColor": "#000000"
         }
       }
@@ -41,7 +41,7 @@
     <!-- Menu System -->
     <div class="menus">
       <div class="menu menu--main">
-        <h1>Block Ninja</h1>
+        <h1>Block Ninja X</h1>
         <button type="button" class="play-normal-btn">PLAY GAME</button>
         <button type="button" class="play-casual-btn">CASUAL MODE</button>
         <div class="credits">
@@ -73,10 +73,10 @@
 
       window.addEventListener("DOMContentLoaded", async () => {
         try {
-          await sdk.actions.ready(); // tell Base app your game is loaded
+          await sdk.actions.ready(); // Tell Base app your game is ready
           console.log("Farcaster Mini App ready");
         } catch (err) {
-          // runs fine if opened outside Farcaster
+          // Game still works fine outside Farcaster
           console.warn("Not running inside Farcaster Mini App environment:", err);
         }
       });
